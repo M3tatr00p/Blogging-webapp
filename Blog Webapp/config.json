@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server":"true",
+        "local_uri":"mysql+pymysql://root:@localhost/lazycoders",
+        "prod_uri":"mysql+pymysql://root:@localhost/lazycoders",
+        "fb_url":" Your Blog Facebook link",
+        "tw_url":" Your Blog Twitter link",
+        "gh_url":" Your Blog Github link",
+        "gmail-user":"your gmail-user",
+        "gmail-password":"your gmail-user",
+        "about_text":"this is text fetch my json file",
+        "no_of_posts":2,
+        "admin_user":"Admin",
+        "admin_password":"12345678"
+
+
+    }
+    
+}
