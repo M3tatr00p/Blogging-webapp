@@ -11,8 +11,8 @@
         "gmail-password":"your gmail-user",
         "about_text":"this is text fetch my json file",
         "no_of_posts":2,
-        "admin_user":"Admin",
-        "admin_password":"12345678"
+        "admin_user":"",
+        "admin_password":""
 
 
     }
